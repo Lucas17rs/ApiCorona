@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Workspace C#\\Api\\Api.csproj": {}
+    "f:\\Workspace C#\\Api\\Api.csproj": {}
   },
   "projects": {
-    "F:\\Workspace C#\\Api\\Api.csproj": {
+    "f:\\Workspace C#\\Api\\Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Workspace C#\\Api\\Api.csproj",
+        "projectUniqueName": "f:\\Workspace C#\\Api\\Api.csproj",
         "projectName": "Api",
-        "projectPath": "F:\\Workspace C#\\Api\\Api.csproj",
+        "projectPath": "f:\\Workspace C#\\Api\\Api.csproj",
         "packagesPath": "C:\\Users\\Meu computador\\.nuget\\packages\\",
-        "outputPath": "F:\\Workspace C#\\Api\\obj\\",
+        "outputPath": "f:\\Workspace C#\\Api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Meu computador\\AppData\\Roaming\\NuGet\\NuGet.Config",
