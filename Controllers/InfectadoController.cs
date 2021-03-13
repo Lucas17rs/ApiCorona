@@ -5,6 +5,8 @@ using MongoDB.Driver;
 
 namespace Api.Controllers
 {
+    [ApiController]
+    [Route("[controller]")]
     public class infectadoControler : ControllerBase
     {
         Data.MongoDB _mongoDB;
